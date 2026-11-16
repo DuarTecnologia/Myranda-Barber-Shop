@@ -1,0 +1,12 @@
+R. MYRANDA BARBER SHOP - SITE ESTÁTICO
+
+1. Publique o arquivo index.html e a pasta assets juntos na raiz do repositório GitHub.
+2. Em Settings > Pages, escolha Deploy from a branch, main e / (root).
+3. Antes de publicar, abra index.html e localize:
+   const WHATSAPP_NUMERO = '';
+   Substitua pelas informações confirmadas, por exemplo: '5511999999999'.
+4. Confirme o endereço da barbearia e atualize o link do Google Maps, se necessário.
+5. Os serviços apresentados são sugestões baseadas nas fotografias; confirme a lista com a barbearia.
+6. As fotos originais foram convertidas para WebP e estão em assets/.
+
+Não é necessário servidor, banco de dados ou dependências externas.
